@@ -4,6 +4,8 @@
   </a>
 </p>
 
+Example: https://stripe-clone.herokuapp.com/
+
 ## Install
 
 ```bash
