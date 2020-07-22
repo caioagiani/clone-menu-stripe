@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://heartdevs.com">
-    <img src="https://s6.ezgif.com/save/ezgif-6-7d00855f8ff0.gif" width="100%" alt=".GIF">
-  </a>
+  <img src="https://i.imgur.com/d7pRYar.gif" width="100%" alt=".GIF">
 </p>
 
 Example: https://stripe-clone.herokuapp.com/
